@@ -31,7 +31,7 @@
         </td>
 	</tr>
   <tr>
-		<td>Jumlah Zakat  :</td>
+		<td>jummlah amal  :</td>
 		<td><input type="text"	name="jumlah_zakat"></td>
 	</tr>			
   <tr>
