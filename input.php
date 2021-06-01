@@ -20,7 +20,7 @@
 		<td><input type="text" name="nama_pemberi"></td>
 	</tr>
 	<tr>
-		<td>Bentuk Zakat  :</td>
+		<td>Bentuk indah  :</td>
 		<td>
         <select name="bentuk_zakat">
              <option value="">Pilih Bentuk Zakat</option>
